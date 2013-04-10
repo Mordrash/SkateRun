@@ -27,6 +27,20 @@ ModelImporter:
     100042: WheelNose1
     100044: WheelTail
     100046: WheelTail1
+    100048: asdf2
+    100050: polymsh_detached
+    100052: polymsh_detached1
+    100054: ShapeControl
+    100056: WellNose_Left
+    100058: WellNose_Right
+    100060: WellTail_Left
+    100062: WellTail_Right
+    100064: Bushing_Nose
+    100066: Bushing_Tail
+    100068: WheelNose_Left
+    100070: WheelNose_Right
+    100072: WheelTail_Left
+    100074: WheelTail_Right
     400000: Screw_Sext
     400002: Screw_Sext1
     400004: Screw_Sext2
@@ -51,6 +65,20 @@ ModelImporter:
     400042: WheelNose1
     400044: WheelTail
     400046: WheelTail1
+    400048: asdf2
+    400050: polymsh_detached
+    400052: polymsh_detached1
+    400054: ShapeControl
+    400056: WellNose_Left
+    400058: WellNose_Right
+    400060: WellTail_Left
+    400062: WellTail_Right
+    400064: Bushing_Nose
+    400066: Bushing_Tail
+    400068: WheelNose_Left
+    400070: WheelNose_Right
+    400072: WheelTail_Left
+    400074: WheelTail_Right
     2300000: Screw_Sext
     2300002: Screw_Sext1
     2300004: Screw_Sext2
@@ -74,6 +102,11 @@ ModelImporter:
     2300040: WheelNose1
     2300042: WheelTail
     2300044: WheelTail1
+    2300046: polymsh_detached
+    2300048: polymsh_detached1
+    2300050: WellNose_Left
+    2300052: Bushing_Nose
+    2300054: Bushing_Tail
     3300000: Screw_Sext
     3300002: Screw_Sext1
     3300004: Screw_Sext2
@@ -97,6 +130,11 @@ ModelImporter:
     3300040: WheelNose1
     3300042: WheelTail
     3300044: WheelTail1
+    3300046: polymsh_detached
+    3300048: polymsh_detached1
+    3300050: WellNose_Left
+    3300052: Bushing_Nose
+    3300054: Bushing_Tail
     4300000: Shape
     4300002: WheelNose1
     4300004: Screw_Sext
@@ -120,6 +158,11 @@ ModelImporter:
     4300040: TruckTail_MiniScrew2
     4300042: TruckTail_MiniScrew3
     4300044: Screw_Sext3
+    4300046: WellNose_Left
+    4300048: polymsh_detached
+    4300050: polymsh_detached1
+    4300052: Bushing_Nose
+    4300054: Bushing_Tail
     9500000: //RootNode
   materials:
     importMaterials: 1
